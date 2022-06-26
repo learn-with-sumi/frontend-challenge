@@ -1,0 +1,21 @@
+@import './theme';
+
+html {
+  font-family: $font-family;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  color: $text-gray;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+html, body, #root {
+  height: 100%;
+}

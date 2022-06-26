@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-08-09T18:30:00.000Z",
+    "end": "2021-08-11T18:30:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 5",
+    "organizer": "Epic Esports Events",
+    "tier": "B-Tier",
+    "start": "2021-11-07T18:30:00.000Z",
+    "end": "2021-11-27T18:30:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Playoffs",
+    "organizer": "PLAYzone",
+    "tier": "B-Tier",
+    "start": "2021-11-24T00:00:00.000Z",
+    "end": "2021-11-28T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Tour 1 Division I",
+    "organizer": "Perfect World",
+    "tier": "A-Tier",
+    "start": "2022-01-02T23:00:00.000Z",
+    "end": "2022-01-28T23:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Season 2 Group Stage",
+    "organizer": "CDA-FDC",
+    "tier": null,
+    "start": "2021-08-17T18:30:00.000Z",
+    "end": "2021-08-26T18:30:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-08-11T22:00:00.000Z",
+    "end": "2021-08-29T21:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "South America Playoffs",
+    "organizer": "DreamHack",
+    "tier": "B-Tier",
+    "start": "2021-09-07T22:00:00.000Z",
+    "end": "2021-09-11T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Tour 1 Closed Qualifier",
+    "organizer": "4D Sports",
+    "tier": "Qualifier",
+    "start": "2021-11-24T23:00:00.000Z",
+    "end": "2021-11-25T23:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Winter Asia #1",
+    "organizer": "ESEA",
+    "tier": "C-Tier",
+    "start": "2022-02-18T18:30:00.000Z",
+    "end": "2022-02-19T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 37 EU Relegations",
+    "organizer": "ESL",
+    "tier": "Qualifier",
+    "start": "2021-07-12T17:00:00.000Z",
+    "end": "2021-08-13T21:59:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Playoffs",
+    "organizer": "Gamers Club",
+    "tier": "C-Tier",
+    "start": "2021-06-25T00:00:00.000Z",
+    "end": "2021-08-29T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 2",
+    "organizer": "DCSet Group",
+    "tier": "C-Tier",
+    "start": "2021-08-25T00:00:00.000Z",
+    "end": "2021-09-04T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 2 Group Stage",
+    "organizer": "Gamers Club",
+    "tier": "B-Tier",
+    "start": "2021-07-21T00:00:00.000Z",
+    "end": "2021-08-08T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Playoffs",
+    "organizer": "Mineski",
+    "tier": "C-Tier",
+    "start": "2021-11-24T23:00:00.000Z",
+    "end": "2021-11-27T23:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Closing Season Playoffs",
+    "organizer": "Riot",
+    "tier": "Major",
+    "start": "2021-08-13T18:30:00.000Z",
+    "end": "2021-08-27T18:30:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 1 Group Stage",
+    "organizer": "Gamers Club",
+    "tier": "B-Tier",
+    "start": "2021-07-20T22:00:00.000Z",
+    "end": "2021-08-03T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Fall Group Stage",
+    "organizer": "Pelaajat",
+    "tier": "C-Tier",
+    "start": "2021-08-26T18:30:00.000Z",
+    "end": "2021-08-28T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "#1",
+    "organizer": "RightShot Agency",
+    "tier": "B-Tier",
+    "start": "2021-11-27T00:00:00.000Z",
+    "end": "2021-11-28T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Summer Season",
+    "organizer": "PVP Media",
+    "tier": null,
+    "start": "2021-05-25T00:00:00.000Z",
+    "end": "2021-08-31T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-07-03T00:00:00.000Z",
+    "end": "2021-08-30T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "Major",
+    "start": "2021-08-13T18:30:00.000Z",
+    "end": "2021-09-03T18:30:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Season",
+    "organizer": "Riot",
+    "tier": "Minor",
+    "start": "2021-05-28T00:00:00.000Z",
+    "end": "2021-08-20T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Split 2",
+    "organizer": "Riot",
+    "tier": "C-Tier",
+    "start": "2021-06-07T00:00:00.000Z",
+    "end": "2021-08-29T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 2 Play-in",
+    "organizer": "WePlay!",
+    "tier": "C-Tier",
+    "start": "2021-09-28T00:00:00.000Z",
+    "end": "2021-10-09T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Summer Season 21",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-05-28T00:00:00.000Z",
+    "end": "2021-08-20T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Pro Divsion Summer Season",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-05-10T00:00:00.000Z",
+    "end": "2021-08-20T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "CS Summit 7 Online",
+    "organizer": "Beyond the Summit",
+    "tier": "S-Tier",
+    "start": "2021-01-24T23:00:00.000Z",
+    "end": "2021-08-27T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 6",
+    "organizer": "Polsat",
+    "tier": "B-Tier",
+    "start": "2021-05-26T00:00:00.000Z",
+    "end": "2021-08-31T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Split",
+    "organizer": "Riot",
+    "tier": "C-Tier",
+    "start": "2021-06-01T00:00:00.000Z",
+    "end": "2021-08-20T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Split 2 Regular Season",
+    "organizer": "Riot",
+    "tier": "A-Tier",
+    "start": "2021-06-05T00:00:00.000Z",
+    "end": "2021-09-06T00:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Season",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-05-28T00:00:00.000Z",
+    "end": "2021-08-31T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Split",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-05-27T00:00:00.000Z",
+    "end": "2021-08-10T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-07-25T22:00:00.000Z",
+    "end": "2021-08-08T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Season",
+    "organizer": "Riot",
+    "tier": "S-Tier",
+    "start": "2021-06-06T22:00:00.000Z",
+    "end": "2021-08-07T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 9 Playoffs",
+    "organizer": "Fortuna Esports",
+    "tier": "Minor",
+    "start": "2021-08-01T22:00:00.000Z",
+    "end": "2021-08-06T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 2 Playoffs",
+    "organizer": "CDA-FDC",
+    "tier": null,
+    "start": "2021-08-27T18:30:00.000Z",
+    "end": "2021-09-04T18:30:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Season 7 Southeast Asia Group Stage",
+    "organizer": "Beyond the Summit",
+    "tier": null,
+    "start": "2021-08-01T22:00:00.000Z",
+    "end": "2021-08-07T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "Major",
+    "start": "2021-07-29T22:00:00.000Z",
+    "end": "2021-08-18T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 9",
+    "organizer": "Fortuna Esports",
+    "tier": "Minor",
+    "start": "2021-06-13T22:00:00.000Z",
+    "end": "2021-08-06T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Season Playoffs",
+    "organizer": "Riot",
+    "tier": "Minor",
+    "start": "2021-08-03T22:00:00.000Z",
+    "end": "2021-08-11T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Split Playoffs",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-07-26T18:30:00.000Z",
+    "end": "2021-08-09T18:30:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Challengermode",
+    "tier": "Minor",
+    "start": "2021-08-06T22:00:00.000Z",
+    "end": "2021-08-14T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 7 Americas Playoffs",
+    "organizer": "Beyond the Summit",
+    "tier": "B-Tier",
+    "start": "2021-08-17T22:00:00.000Z",
+    "end": "2021-08-21T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Country Finals",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-10-07T18:30:00.000Z",
+    "end": "2021-10-09T18:30:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "#6",
+    "organizer": "Eden Esports",
+    "tier": "B-Tier",
+    "start": "2022-02-07T00:00:00.000Z",
+    "end": "2022-02-16T23:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 5 China Group Stage",
+    "organizer": "One Game Agency",
+    "tier": "B-Tier",
+    "start": "2021-08-06T22:00:00.000Z",
+    "end": "2021-08-09T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-07-26T22:00:00.000Z",
+    "end": "2021-08-07T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 6",
+    "organizer": "ESL",
+    "tier": "C-Tier",
+    "start": "2021-08-16T18:00:00.000Z",
+    "end": "2021-08-30T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Autumn",
+    "organizer": "Gamers Club",
+    "tier": null,
+    "start": "2021-08-18T00:00:00.000Z",
+    "end": "2021-08-30T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 5 Playoffs",
+    "organizer": "Eden Esports",
+    "tier": "B-Tier",
+    "start": "2021-09-01T18:30:00.000Z",
+    "end": "2021-09-04T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Summer",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-06-10T00:00:00.000Z",
+    "end": "2021-09-16T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-08-12T18:30:00.000Z",
+    "end": "2021-09-03T18:30:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer",
+    "organizer": "Riot",
+    "tier": "Major",
+    "start": "2021-06-04T22:00:00.000Z",
+    "end": "2021-08-07T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Fall",
+    "organizer": "Fantasyexpo",
+    "tier": "B-Tier",
+    "start": "2021-09-07T00:00:00.000Z",
+    "end": "2021-09-09T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Closing Season",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-06-18T22:00:00.000Z",
+    "end": "2021-08-27T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Winter South America #1",
+    "organizer": "ESEA",
+    "tier": "C-Tier",
+    "start": "2022-02-19T18:30:00.000Z",
+    "end": "2022-02-20T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Summer Season Playoffs",
+    "organizer": "Riot",
+    "tier": "S-Tier",
+    "start": "2021-07-31T22:00:00.000Z",
+    "end": "2021-08-28T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 7 Southeast Asia Closed Qualifiers",
+    "organizer": "Beyond the Summit",
+    "tier": "B-Tier",
+    "start": "2021-07-26T22:00:00.000Z",
+    "end": "2021-08-30T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Summer",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-06-26T00:00:00.000Z",
+    "end": "2021-08-07T23:59:59.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Fall",
+    "organizer": "Swiss Esports League",
+    "tier": "C-Tier",
+    "start": "2021-11-27T00:00:00.000Z",
+    "end": "2021-11-28T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Fall Playoffs",
+    "organizer": "Pelaajat",
+    "tier": null,
+    "start": "2021-08-28T18:30:00.000Z",
+    "end": "2021-08-29T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 2 Group Stage",
+    "organizer": "Epic Esports Events",
+    "tier": "B-Tier",
+    "start": "2021-07-18T22:00:00.000Z",
+    "end": "2021-08-02T21:59:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Season 1",
+    "organizer": "WePlay!",
+    "tier": "C-Tier",
+    "start": "2021-07-18T18:30:00.000Z",
+    "end": "2021-08-07T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 7 Americas Closed Qualifiers",
+    "organizer": "Beyond the Summit",
+    "tier": "B-Tier",
+    "start": "2021-08-03T22:00:00.000Z",
+    "end": "2021-08-07T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "TI10 Main Event",
+    "organizer": "Valve",
+    "tier": "S-Tier",
+    "start": "2021-10-06T22:00:00.000Z",
+    "end": "2021-10-16T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Season 7 Americas Group Stage",
+    "organizer": "Beyond the Summit",
+    "tier": "B-Tier",
+    "start": "2021-08-08T22:00:00.000Z",
+    "end": "2021-08-14T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Hitpoint",
+    "tier": "Minor",
+    "start": "2021-07-21T22:00:00.000Z",
+    "end": "2021-08-07T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 7 Southeast Asia Playoffs ",
+    "organizer": "Beyond the Summit",
+    "tier": "B-Tier",
+    "start": "2021-08-10T22:00:00.000Z",
+    "end": "2021-08-14T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Winter #2",
+    "organizer": "Relog Media",
+    "tier": "A-Tier",
+    "start": "2022-02-07T00:00:00.000Z",
+    "end": "2022-02-23T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Regional Finals",
+    "organizer": "Epic Esports Events",
+    "tier": "B-Tier",
+    "start": "2022-02-17T18:30:00.000Z",
+    "end": "2022-02-19T18:30:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Pro Division Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "B-Tier",
+    "start": "2021-07-26T22:00:00.000Z",
+    "end": "2021-08-07T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season",
+    "organizer": "Y-Games",
+    "tier": "C-Tier",
+    "start": "2021-04-15T18:30:00.000Z",
+    "end": "2021-09-16T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Split Season 2",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-06-13T22:00:00.000Z",
+    "end": "2021-08-09T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "Minor",
+    "start": "2021-06-19T00:00:00.000Z",
+    "end": "2021-09-06T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Season 21 Playoffs",
+    "organizer": "Riot",
+    "tier": "Minor",
+    "start": "2021-07-29T22:00:00.000Z",
+    "end": "2021-08-11T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "S-Tier",
+    "start": "2021-08-11T22:00:00.000Z",
+    "end": "2021-09-05T21:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer",
+    "organizer": "Riot",
+    "tier": "Major",
+    "start": "2021-06-06T22:00:00.000Z",
+    "end": "2021-09-07T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "#4",
+    "organizer": "Eden Esports",
+    "tier": "B-Tier",
+    "start": "2021-11-28T23:00:00.000Z",
+    "end": "2021-12-08T23:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Split 2 Playoffs",
+    "organizer": "Riot",
+    "tier": "Minor",
+    "start": "2021-07-08T22:00:00.000Z",
+    "end": "2021-08-06T22:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "#1 Southern Cone Playoffs",
+    "organizer": "Gamers Club",
+    "tier": "C-Tier",
+    "start": "2021-08-08T22:00:00.000Z",
+    "end": "2021-08-10T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 2 Playoffs",
+    "organizer": "Gamers Club",
+    "tier": "B-Tier",
+    "start": "2021-08-05T18:30:00.000Z",
+    "end": "2021-08-08T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Split 2 Playoffs",
+    "organizer": "Riot",
+    "tier": "C-Tier",
+    "start": "2021-08-09T22:00:00.000Z",
+    "end": "2021-08-28T21:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Season 4",
+    "organizer": "Redragon",
+    "tier": null,
+    "start": "2021-07-20T18:30:00.000Z",
+    "end": "2021-08-15T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 2 Playoffs",
+    "organizer": "Epic Esports Events",
+    "tier": "B-Tier",
+    "start": "2021-08-03T22:00:00.000Z",
+    "end": "2021-08-10T18:30:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Fall Closed Qualifier",
+    "organizer": "ESL",
+    "tier": "Qualifier",
+    "start": "2021-08-08T22:00:00.000Z",
+    "end": "2021-08-10T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "November",
+    "organizer": "Gamers Club",
+    "tier": "Minor",
+    "start": "2021-11-09T00:00:00.000Z",
+    "end": "2021-11-30T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Play In",
+    "organizer": "WePlay!",
+    "tier": "C-Tier",
+    "start": "2021-08-06T22:00:00.000Z",
+    "end": "2021-08-07T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 1 Playoffs",
+    "organizer": "WePlay!",
+    "tier": "B-Tier",
+    "start": "2021-08-26T22:00:00.000Z",
+    "end": "2021-08-28T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 5 China Playoffs",
+    "organizer": "One Game Agency",
+    "tier": "B-Tier",
+    "start": "2021-08-10T22:00:00.000Z",
+    "end": "2021-08-15T22:00:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Latin Power Fall",
+    "organizer": "FiReSPORTS",
+    "tier": "C-Tier",
+    "start": "2021-09-10T00:00:00.000Z",
+    "end": "2021-09-12T21:59:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 8",
+    "organizer": "Epic Esports Events",
+    "tier": "C-Tier",
+    "start": "2022-02-20T18:30:00.000Z",
+    "end": "2022-03-12T18:30:00.000Z",
+    "title": "DOTA2"
+  },
+  {
+    "name": "Summer Playoffs",
+    "organizer": "Riot",
+    "tier": "Major",
+    "start": "2021-08-16T08:00:00.000Z",
+    "end": "2021-08-29T00:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "#1 Regional Swiss Stage",
+    "organizer": "Relog Media",
+    "tier": "A-Tier",
+    "start": "2021-08-22T22:00:00.000Z",
+    "end": "2021-08-27T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Summer Play-Ins",
+    "organizer": "Riot",
+    "tier": "Major",
+    "start": "2021-08-16T00:00:00.000Z",
+    "end": "2021-08-19T00:00:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer",
+    "organizer": "Mate Crate",
+    "tier": "Minor",
+    "start": "2021-08-20T22:00:00.000Z",
+    "end": "2021-10-01T22:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 1 Group Stage",
+    "organizer": "Gamers Club",
+    "tier": "C-Tier",
+    "start": "2021-08-11T22:00:00.000Z",
+    "end": "2021-08-14T21:59:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Online",
+    "organizer": "GOMAC Gaming Company",
+    "tier": "C-Tier",
+    "start": "2021-11-01T00:00:00.000Z",
+    "end": "2021-11-26T00:00:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Season 1 Playoffs",
+    "organizer": "Gamers Club",
+    "tier": "C-Tier",
+    "start": "2021-08-14T18:30:00.000Z",
+    "end": "2021-08-15T18:30:00.000Z",
+    "title": "CSGO"
+  },
+  {
+    "name": "Summer Main Event",
+    "organizer": "Riot",
+    "tier": null,
+    "start": "2021-08-29T00:00:00.000Z",
+    "end": "2021-09-20T23:59:00.000Z",
+    "title": "LOL"
+  },
+  {
+    "name": "Summer Season",
+    "organizer": "Riot",
+    "tier": "S-Tier",
+    "start": "2021-06-08T22:00:00.000Z",
+    "end": "2021-08-14T22:00:00.000Z",
+    "title": "LOL"
+  }
+]

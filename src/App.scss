@@ -1,0 +1,61 @@
+@import './theme';
+
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100%;
+
+  header {
+    display: flex;
+    position: relative;
+    z-index: 1;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0.25rem 2rem;
+    box-shadow: $shadow-gray 0px 1px 10px 0px;
+
+    .logo {
+      height: 3rem;
+      margin-left: auto;
+    }
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    background-color: $main-background;
+  }
+
+  aside {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 5rem 2rem;
+
+    .inputs-caption {
+      font-weight: 500;
+      font-size: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .input-item {
+      margin-bottom: 1rem;
+      font-weight: 700;
+
+      &:first-of-type {
+        margin-top: 0.5rem;
+      }
+
+      label {
+        margin-left: 1.5rem;
+      }
+    }
+  }
+
+  main {
+    flex-grow: 1;
+    padding: 5rem;
+  }
+}
