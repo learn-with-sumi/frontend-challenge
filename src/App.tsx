@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { EsportsTitle, Tournament, loadTournaments } from './api/tournamentsApi';
 import './App.scss';
 import logo from './assets/logo.svg';
@@ -6,6 +6,7 @@ import csgo from './assets/csgo.png';
 import lol from './assets/lol.png';
 import dota2 from './assets/dota2.png';
 import Spinner from './Spinner';
+import Table from "./Table";
 
 const App = () => {
   const [isChecked, setIsChecked] = useState<Array<EsportsTitle>>([]);
@@ -14,24 +15,55 @@ const App = () => {
 
   const handleOnChange = (title: string) => {
     setIsLoading(true);
-    // returns the first index or -1
     let changedCheckbox: any = Object.values(EsportsTitle).find(key => EsportsTitle[key] === title);
     const currentIndex = isChecked.indexOf(changedCheckbox);
     const newCheckedCategoryArray = [...isChecked];
 
-    if(currentIndex === -1){
-        //then push in default state or remove it if its already there.
-        newCheckedCategoryArray.push(changedCheckbox);
-    }
-    else{
-        newCheckedCategoryArray.splice(currentIndex, 1)
+    if (currentIndex === -1) {
+      newCheckedCategoryArray.push(changedCheckbox);
+    } else {
+      newCheckedCategoryArray.splice(currentIndex, 1)
     }
     setIsChecked(newCheckedCategoryArray);
-    loadTournaments(newCheckedCategoryArray).then((results) => {
+  }
+
+  useEffect(() => {
+    loadTournaments(isChecked).then((results) => {
       setTournaments(results);
       setIsLoading(false);
-    });
-  }
+    })
+    .catch((err) => {
+      setIsLoading(false);
+      console.log(err);
+  })
+  }, [isChecked]);
+
+  const columns = [
+    {
+      header: "Title",
+      accessor: "title",
+    },
+    {
+      header: "Tournament",
+      accessor: "name",
+    },
+    {
+      header: "Organizer",
+      accessor: "organizer",
+    },
+    {
+      header: "Tier",
+      accessor: "tier",
+    },
+    {
+      header: "Start Date & Time",
+      accessor: "start",
+    },
+    {
+      header: "End Date & Time",
+      accessor: "end"
+    }
+  ];
 
   return (
     <div className="App">
@@ -55,32 +87,8 @@ const App = () => {
         <main>
           {isLoading ? <Spinner />
           : tournaments.length > 0 &&
-            <table>
-              <tr>
-                <th>Title</th>
-                <th>Tournament</th>
-                <th>Organizer</th>
-                <th>Tier</th>
-                <th>Start Date & Time</th>
-                <th>End Date & Time</th>
-              </tr>
-              {tournaments.map((tournament, key) => {
-                return (
-                  <tr key={key}>
-                    <td>{tournament.title}</td>
-                    {/* <td><img src={tournament.title} className="logo" alt="logo" /></td> */}
-                    <td>{tournament.name}</td>
-                    <td>{tournament.organizer}</td>
-                    <td>{tournament.tier}</td>
-                    <td>{tournament.start}</td>
-                    <td>{tournament.end}</td>
-                  </tr>
-                )
-              })}
-            </table>
+            <Table data={tournaments} headers={columns}/>
           }
-          {/* TODO: Show Tournaments for selected Esports. */}
-          {/* TODO: Show a spinner while new tournaments are being loaded */}
         </main>
       </div>
     </div>
