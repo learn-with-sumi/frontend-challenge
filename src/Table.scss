@@ -1,0 +1,29 @@
+@import './theme';
+
+.tournaments {
+  border-radius: $border-radius;
+  background-color: white;
+  box-shadow: 0px 4px 6px 6px $shadow-gray;
+  border-spacing: 0px;
+  text-align: left;
+  width: 100%;
+
+  .table-header {
+    color: $header-gray;
+    background-color: $background-gray;
+    
+    .column-header {
+      padding: 15px 20px;
+      font-weight: 500;
+    }
+  }
+
+  .table-body {
+    font-size: 14px;
+
+    td {
+      padding: 5px 20px;
+      border-bottom: 1px solid $background-gray;
+    }
+  }
+}
