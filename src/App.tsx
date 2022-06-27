@@ -49,7 +49,7 @@ const App = () => {
           {Object.keys(EsportsTitle).map((title) => {
             const id = `check-${title}`;
             return (
-              <div key={title} className="input-item">
+              <div key={title} data-testid={id} className="input-item">
                 <input id={id} type="checkbox" onChange={() => handleOnChange(title)} />
                 <label htmlFor={id}>{title}</label>
               </div>
